@@ -1,4 +1,4 @@
-## Artice
+## Artico
 Artico is a mobile platform made for artists, which enables to create posts (like and comment them) and add advertisements to sell their works.
 
 ## Motivation
