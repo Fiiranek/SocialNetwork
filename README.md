@@ -9,7 +9,7 @@ Build on Codemagic.io will be available soon.
  
 ## Screenshots
 Sign Up screen
-<img src="https://github.com/Fiiranek/SocialNetwork/blob/master/screenshots/1.jpg"/>
+<img src="https://github.com/Fiiranek/SocialNetwork/blob/master/screenshots/1.png"/>
 
 ## Tech/framework used
 <b>Built with</b>
