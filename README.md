@@ -8,9 +8,9 @@ I completed the project to gain experience in building social networking sites a
 Build on Codemagic.io will be available soon.
  
 ## Screenshots
-<img src="https://github.com/Fiiranek/SocialNetwork/blob/master/screenshots/1.png"/>
-<img src="https://github.com/Fiiranek/SocialNetwork/blob/master/screenshots/2.png"/>
-<img src="https://github.com/Fiiranek/SocialNetwork/blob/master/screenshots/3.png"/>
+<img src="https://github.com/Fiiranek/SocialNetwork/screenshots/1.png"/>
+<img src="https://github.com/Fiiranek/SocialNetwork/screenshots/2.png"/>
+<img src="https://github.com/Fiiranek/SocialNetwork/screenshots/3.png"/>
 
 ## Tech/framework used
 <b>Built with</b>
