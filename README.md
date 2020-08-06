@@ -3,6 +3,7 @@ Artico is a mobile platform made for artists, which enables to create posts (lik
 
 ## APK
 App can be downloaded here:
+
 https://drive.google.com/file/d/1OHtv4Xl5MsSdLxLw1mBQwiAxILOL1Iwt/view?usp=sharing
 
 ## Motivation
